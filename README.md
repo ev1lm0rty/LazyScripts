@@ -1,6 +1,6 @@
 ## About
 * Some quick and dirty scripts that I use while pentesting a box.
-* These are my just raw scripts, you can tweak them if u like.
+* These are just raw scripts, you can tweak them if u like.
 
 ## Scripts
 * OneLineRev.py : Create one line reverse shells easily.
